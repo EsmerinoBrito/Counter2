@@ -10,4 +10,4 @@
 		logaUsuario($usuario["email"]);
 		header("Location: index.php");
 	}
-die();
+die(); 
